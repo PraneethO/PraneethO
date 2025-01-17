@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently a high-school senior working on a [Name Pending], a photography app to help people getting into the hobby!<br>👯 I’m looking to collaborate on open source projects! I love contributing.<br>🤝 I’m looking for help with Advanced AI and Machine Learning models that can be implemented in C instead of Python<br>🌱 I’m currently learning about leetcode problems and the different algorithms that are so incredibly different from the Computing Olympiad<br>💬 Ask me about anything related to Physics. I'd love to help! I love, love, love Physics.<br>⚡ Fun fact: I stargaze, and it's how I got into photography.
+🔭 I'm currently a high-school senior working on a [Name Pending]: a photography app to help people getting into the hobby!<br>👯 I’m looking to collaborate on open source projects! I love contributing.<br>🤝 I’m looking for help with Advanced AI and Machine Learning models that can be implemented in C instead of Python<br>🌱 I’m currently learning about leetcode problems and the different algorithms that are so incredibly different from the Computing Olympiad<br>💬 Ask me about anything related to Physics. I'd love to help! I love, love, love Physics.<br>⚡ Fun fact: I stargaze; it's how I got into photography.
 
 
 ## 🌐 Socials:
