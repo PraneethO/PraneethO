@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Praneeth
-I'm a **freshman at UC Berkeley studying Electrical Engineering & Computer Sciences (EECS)**.  
+I'm at UC Berkeley studying Electrical Engineering & Computer Sciences (EECS)**.  
 I love exploring **AI, machine learning, and technology in general**, building things, and constantly learning new ideas.  
 
 🌌 When I’m not coding, I’m probably **stargazing** or capturing the night sky with my camera.  
